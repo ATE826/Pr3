@@ -18,7 +18,7 @@ p {
 
 .button:hover {
   background-color: #ff9c71;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.3s ease-in-out;
 }
 
 /*# sourceMappingURL=styles.css.map */
