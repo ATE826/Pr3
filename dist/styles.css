@@ -1,6 +1,19 @@
 body {
   background-color: #ffedc8;
-  color: #c8d9ff;
+  color: #000;
+}
+
+p {
+  font-size: large;
+}
+
+.button {
+  background-color: #ffe371;
+  font-size: 24pt;
+  border: solid 3px black;
+  border-radius: 33px;
+  height: 70px;
+  width: 350px;
 }
 
 /*# sourceMappingURL=styles.css.map */

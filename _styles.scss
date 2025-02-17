@@ -1,7 +1,20 @@
 $background-color: #ffedc8;
-
+$text-color: #000;
+$btn-color: #ffe371;
 
 
 body{
     background-color: $background-color;
+    color: $text-color;
+}
+p{
+    font-size: large;
+}
+.button{
+    background-color: $btn-color;
+    font-size: 24pt;
+    border: solid 3px black;
+    border-radius: 33px;
+    height: 70px;
+    width: 350px;
 }
