@@ -16,4 +16,9 @@ p {
   width: 350px;
 }
 
+.button:hover {
+  background-color: #ff9c71;
+  transition: background-color 0.3s ease;
+}
+
 /*# sourceMappingURL=styles.css.map */
